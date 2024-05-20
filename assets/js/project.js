@@ -7,32 +7,18 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Hardware POS System",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A pc hardware point of sale system  using C#..",
+    cardImage: "assets/images/project-page/POS.jpg",
+    description: "A pc hardware point of sale system using C# for my second year final project.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
   },
+ 
+  
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Exercise Tracker",
+    title: "Fitness and Wellness Mobile Tracker App",
     cardImage: "assets/images/project-page/exercise.jpg",
-    description: "Exercise tracker built using basic redux.",
+    description: "Built this mobile app using React Native for my final year project.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "",
