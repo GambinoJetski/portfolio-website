@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "IT Tech Support Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/CWA-LOGO.png",
     place: "CWA(Central Water Authority)",
     time: "(July 2023 - September 2023)",
     desp: "<li>Worked on mail migration project of HCL to Microsoft 365.</li> <li>Gained valuable experience in IT support, hardware maintenance, networking concepts and project management.</li> <li>User training and on-site interventions.</li>",
