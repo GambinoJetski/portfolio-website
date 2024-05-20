@@ -89,18 +89,11 @@ const mentor = [
   {
     title: "24h by Webcup Maurice",
     subtitle: "24h Webcup 2024",
-    image: "assets/images/experience-page/uplift.png",
+    image: "assets/images/experience-page/24h-blanc-HD.png",
     desp: "Le 24h By Webcup est un concours de développement web d’une durée de 24 heures.Pendant ce laps de temps, les participants doivent réaliser un site internet sur un sujet imposé, dévoilé au lancement du concours.",
     href: "https://uplift.girlscript.tech/",
   },
  
-  {
-    title: "NHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/nhacks.png",
-    desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
-    href: "https://nhacks-vi.devpost.com/",
-  },
 ];
 
 const showCards3 = () => {
