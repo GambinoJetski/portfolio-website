@@ -49,10 +49,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "UDM IET on Campus",
+    cardImage: "assets/images/experience-page/udm_iet.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "The UDM IET club is part of the IET (Institution of Engineering and Technology). We organised several events like the Cloud Challenge in partnership with Clarity and other companies. ",
   },
   {
     title: "StudentCode-in 2020",
