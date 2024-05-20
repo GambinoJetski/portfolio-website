@@ -91,7 +91,7 @@ const mentor = [
     subtitle: "24h Webcup 2024",
     image: "assets/images/experience-page/24h-blanc-HD.png",
     desp: "Le 24h By Webcup est un concours de développement web d’une durée de 24 heures.Pendant ce laps de temps, les participants doivent réaliser un site internet sur un sujet imposé, dévoilé au lancement du concours.",
-    href: "https://uplift.girlscript.tech/",
+    href: "https://24h.webcup.fr/maurice/",
   },
  
 ];
