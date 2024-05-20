@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "CWA(Central Water Authority)",
     time: "(July 2023 - September 2023)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Worked on mail migration project of HCL to Microsoft 365.</li> <li>Gained valuable experience in IT support, hardware maintenance, networking concepts and project management.</li> <li>User training and on-site interventions.</li>",
   },
   {
     title: "Student Developer",
