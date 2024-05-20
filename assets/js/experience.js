@@ -55,23 +55,12 @@ const volunteershipcards = [
       "The UDM IET club is part of the IET (Institution of Engineering and Technology). We organised several events like the Cloud Challenge in partnership with Clarity and other companies. ",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Microsoft Student Partner",
+    cardImage: "assets/images/experience-page/microsoft_logo.png",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, my team and I have organised hands on workshops and seminars to teach Microsoft basics concepts to students.",
   },
-  {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
-    description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
+  
 ];
 
 const showCards = () => {
